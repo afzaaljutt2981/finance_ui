@@ -1,16 +1,3 @@
-# finance
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1710223334](https://github.com/afzaaljutt2981/finance_ui/assets/118747946/0e7695be-4d13-4b3a-ae54-adbcaf907fae)
+![Screenshot_1710223338](https://github.com/afzaaljutt2981/finance_ui/assets/118747946/a6eb1b26-325a-48a6-8280-35f530c50aad)
+![Screenshot_1710223343](https://github.com/afzaaljutt2981/finance_ui/assets/118747946/38ff2406-295b-408c-803c-d502ddbc9ebe)
